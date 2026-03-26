@@ -8,7 +8,7 @@ Live Website
 
 Project Overview
 
-GlobalNews Portal is a multi-page website built using HTML, CSS, and basic JavaScript. It provides users with an engaging experience through structured news articles, multimedia content, and smooth navigation.
+GlobalNews Portal is a multi-page website built using HTML, CSS. It provides users with an engaging experience through structured news articles, multimedia content, and smooth navigation.
 
  Features
  Home Page with featured news articles
